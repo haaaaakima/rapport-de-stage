@@ -1,0 +1,17 @@
+![Voici en image mon projet de création de tableau de bord sur power bi effectué durant mon stage](./architecture-sad.png)
+
+![modèle de données](./modele-de-donnees.png)
+
+![exemple dimension](./exemple-dimension.png)
+
+![cas d'usage en BI](./cas-usage-Business-Intelligence(BI).png)
+
+![Dashboard 1](./dashboard25-1.png)
+
+![Dashboard 2](./dashboard25-2.png)
+
+![Dashboard 3](./dashboard25-3.png)
+
+![Dashboard 4](./dashboard25-4.png)
+
+![Dashboard 5](./dashboard25-5.png)
